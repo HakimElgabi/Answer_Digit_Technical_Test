@@ -1,0 +1,4 @@
+H57	Tin O Beans	1.23	Half Price
+C330	Fruity Drink	0.54	3 for 1.00
+BR7	Sliced Loaf	1.54	
+X546	2 Litre Milk	2.16	BOGOF
